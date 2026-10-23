@@ -1,0 +1,18 @@
+{
+  "title": "MODEL-PROVENANCE-PACK",
+  "upload_type": "software",
+  "description": "Local repository validation tooling and architecture for explicit model provenance. No domain qualification or release is declared.",
+  "creators": [
+    {
+      "name": "\u0160otek, Miroslav",
+      "orcid": "0009-0009-3560-0851",
+      "affiliation": "ANULUM"
+    }
+  ],
+  "license": "AGPL-3.0-or-later",
+  "keywords": [
+    "model provenance",
+    "repository validation",
+    "neuromorphic computing"
+  ]
+}

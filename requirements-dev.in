@@ -1,0 +1,34 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+# Commercial license available
+# © Concepts 1996–2026 Miroslav Šotek. All rights reserved.
+# © Code 2020–2026 Miroslav Šotek. All rights reserved.
+# ORCID: 0009-0009-3560-0851
+# Contact: www.anulum.li | protoscience@anulum.li
+# MODEL-PROVENANCE-PACK — repository validation tooling
+
+# Exact direct tooling; all are development-only, never domain dependencies.
+# mypy follows the shared <2 profile; poetry-core builds the locked REUSE source.
+bandit==1.9.4
+coverage==7.16.2
+cyclonedx-bom==7.5.0
+jsonschema==4.26.0
+Markdown==3.11.2
+mkdocs==1.6.1
+mkdocs-material==9.7.7
+mkdocstrings-python==2.0.10
+mypy==1.20.2
+numpydoc==1.11.0
+packaging==26.3
+pip-audit==2.10.1
+pre-commit==4.7.0
+pytest==9.1.1
+pytest-cov==7.1.0
+PyYAML==6.0.3
+reuse==6.2.0
+ruff==0.17.1
+types-jsonschema==4.26.0.20261006
+types-Markdown==3.10.2.20261007
+types-PyYAML==6.0.12.20260906
+uv==0.13.4
+zizmor==1.31.1
+poetry-core==2.5.0
