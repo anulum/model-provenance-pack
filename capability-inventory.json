@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "MODEL-PROVENANCE-PACK",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "b35d441f926b71ae8fbeedcdb96b944922b86794f5138068ac085d17edef84c1"
+    "sha256": "a15682ef57a1e205e87b9c1565a56e2a2f642bb177a80264fad5a85c1ae13d68"
   }
 }

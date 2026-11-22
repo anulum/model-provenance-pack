@@ -17,7 +17,7 @@ from mpp_validation.inputs import read_file, read_json
 from mpp_validation.report import Finding, Refusal, Report
 
 # Reviewed independently of the descriptor. Policy updates require code review.
-SCHEMA_SHA256 = "70c2683d4e25dea362af156f11aad8e7e441f037027e482f23c38228a9711d22"
+SCHEMA_SHA256 = "49e98f950c46261b904e31dc1e608d4027fc280a84fa1f74bdc9eaef6a8c3e0d"
 SCHEMA_PATH = "schemas/repository-domain.schema.json"
 METADATA_PATH = "repository-domain.json"
 

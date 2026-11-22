@@ -12,6 +12,8 @@ MODEL-PROVENANCE-PACK — repository governance and provenance
 
 MODEL-PROVENANCE-PACK defines the boundary for collecting and verifying model provenance. The current implementation provides repository validation tooling. Model collection, signatures and provenance-pack inspection are planned; there is no installable model-processing package or qualified scientific capability.
 
+MODEL-PROVENANCE-PACK is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 The local metadata explicitly records `local_scaffold`, `architecture_only`, empty capabilities, claims and qualified schemas. The planned identifier `model_provenance.pack.v1` is a declaration, not a registered or accepted evidence format.
 
 ## Validate repository metadata
